@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-03-15",
+  "locale": "fr-fr",
+  "source": "https://www.monsterenergy.com/fr-fr/energy-drinks/",
+  "total": 21,
+  "products": [
+    {
+      "name": "L'originale : la Monster Energy verte",
+      "category": "Original",
+      "slug": "loriginale-la-monster-energy-verte",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/loriginale-la-monster-energy-verte/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/bbf202f9-2fae-4cac-a6c7-e323d9d4b35d.png",
+      "localImagePath": "/monster/loriginale-la-monster-energy-verte.png"
+    },
+    {
+      "name": "Monster Energy Zero Sugar",
+      "category": "Original",
+      "slug": "zero-sugar-monster-energy",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/zero-sugar-monster-energy/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/867490c6-cb50-49d8-815e-4c5b087d2fe5.png",
+      "localImagePath": "/monster/zero-sugar-monster-energy.png"
+    },
+    {
+      "name": "Monster Energy Lando Norris Zero Sugar",
+      "category": "Original",
+      "slug": "lando-norris-zero-sugar",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/lando-norris-zero-sugar/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/63e43ad7-e3b6-44a1-a488-6bb2786eceea.png",
+      "localImagePath": "/monster/lando-norris-zero-sugar.png"
+    },
+    {
+      "name": "Monster Energy Nitro Super Dry",
+      "category": "Original",
+      "slug": "nitro-super-dry",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/nitro-super-dry/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/3f0fe06f-ed99-432d-bccf-671fbe0e04f6.png",
+      "localImagePath": "/monster/nitro-super-dry.png"
+    },
+    {
+      "name": "Monster Energy Top Speed Zero Sugar",
+      "category": "Original",
+      "slug": "top-speed-zero-sugar",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/top-speed-zero-sugar/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/4c44c2e8-4523-464d-b013-63f854da15b1.png",
+      "localImagePath": "/monster/top-speed-zero-sugar.png"
+    },
+    {
+      "name": "Monster Energy Zero Sugar",
+      "category": "Original",
+      "slug": "zero-sugar",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/monster-energy/zero-sugar/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/cab66547-fb9d-4a64-9b61-e4d08dd09aa4.png",
+      "localImagePath": "/monster/zero-sugar.png"
+    },
+    {
+      "name": "Monster Ultra Ultra White",
+      "category": "Zéro Sucre",
+      "slug": "ultra-white",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-white/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/9ecbfb67-8336-4958-81de-9a7d53740714.png",
+      "localImagePath": "/monster/ultra-white.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Golden",
+      "category": "Zéro Sucre",
+      "slug": "ultra-golden",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-golden/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/bcdb6c95-54b1-4b54-b652-380a71b42b2a.png",
+      "localImagePath": "/monster/ultra-golden.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Paradise",
+      "category": "Zéro Sucre",
+      "slug": "ultra-paradise",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-paradise/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/e4cf4085-c38f-43f3-82a1-cba679446f69.png",
+      "localImagePath": "/monster/ultra-paradise.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Peachy Keen",
+      "category": "Zéro Sucre",
+      "slug": "ultra-peachy-keen",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-peachy-keen/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/430a3901-294c-4d7f-8166-77aea323f528.png",
+      "localImagePath": "/monster/ultra-peachy-keen.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Fiesta Mango",
+      "category": "Zéro Sucre",
+      "slug": "ultra-fiesta-mango",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-fiesta-mango/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/ff6ee3a2-badd-40d9-bc82-217afc2f1e43.png",
+      "localImagePath": "/monster/ultra-fiesta-mango.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Watermelon",
+      "category": "Zéro Sucre",
+      "slug": "ultra-watermelon",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-watermelon/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/3b55f1f4-922e-494a-a95f-f59a213e8535.png",
+      "localImagePath": "/monster/ultra-watermelon.png"
+    },
+    {
+      "name": "Monster Ultra Ultra Rosá",
+      "category": "Zéro Sucre",
+      "slug": "ultra-rosa",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/zero-sucre/ultra-rosa/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/bc119a14-d185-4ad1-881c-99b37de2b7aa.png",
+      "localImagePath": "/monster/ultra-rosa.png"
+    },
+    {
+      "name": "Juiced Monster Mango Loco",
+      "category": "Juiced + Énergie",
+      "slug": "mango-loco",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/mango-loco/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/562af477-3be4-48e0-96e4-0d8ed349ec02.png",
+      "localImagePath": "/monster/mango-loco.png"
+    },
+    {
+      "name": "Juiced Monster Rio Punch",
+      "category": "Juiced + Énergie",
+      "slug": "juiced-monster-rio-punch",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/juiced-monster-rio-punch/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/769c015a-cb52-4894-b54f-b14a75b069fe.png",
+      "localImagePath": "/monster/juiced-monster-rio-punch.png"
+    },
+    {
+      "name": "Juiced Monster Juiced Aussie Lemonade",
+      "category": "Juiced + Énergie",
+      "slug": "aussie-lemonade",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/aussie-lemonade/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/68169bab-21d6-4d64-a13b-6b8432b8db23.png",
+      "localImagePath": "/monster/aussie-lemonade.png"
+    },
+    {
+      "name": "Juiced Monster Pipeline Punch",
+      "category": "Juiced + Énergie",
+      "slug": "pipeline-punch",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/pipeline-punch/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/404f1fbb-e037-4a74-8bbb-f59545e8a315.png",
+      "localImagePath": "/monster/pipeline-punch.png"
+    },
+    {
+      "name": "Juiced Monster Mixxd",
+      "category": "Juiced + Énergie",
+      "slug": "mixxd",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/mixxd/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/adb63939-1267-48bc-a378-6a9d3959ed37.png",
+      "localImagePath": "/monster/mixxd.png"
+    },
+    {
+      "name": "Juiced Monster Monarch",
+      "category": "Juiced + Énergie",
+      "slug": "monarch",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/monarch/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/dd75c1ab-298a-41a7-a780-494d5707041d.png",
+      "localImagePath": "/monster/monarch.png"
+    },
+    {
+      "name": "Juiced Monster Pacific Punch",
+      "category": "Juiced + Énergie",
+      "slug": "pacific-punch",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/pacific-punch/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/9423c62d-f955-4294-9dd5-ba476dd80c4f.png",
+      "localImagePath": "/monster/pacific-punch.png"
+    },
+    {
+      "name": "Juiced Monster Khaotic",
+      "category": "Juiced + Énergie",
+      "slug": "khaotic",
+      "productUrl": "https://www.monsterenergy.com/fr-fr/energy-drinks/juiced-monster/khaotic/",
+      "imageUrl": "https://web-assests.monsterenergy.com/mnst/d8c7953c-ac81-4f00-b337-c9688790a893.png",
+      "localImagePath": "/monster/khaotic.png"
+    }
+  ]
+}
